@@ -13,7 +13,7 @@
   "author": "Phil Nadon <phil@nadon.io>",
   "license": "(MIT OR Apache-2.0)",
   "dependencies": {
-    "phil-wasm-game-of-life": "^0.1.0"
+    "phil-wasm-game-of-life": "../pkg"
   },
   "devDependencies": {
     "hello-wasm-pack": "^0.1.0",
